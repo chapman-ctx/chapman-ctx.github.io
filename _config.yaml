@@ -5,3 +5,4 @@ collections:
     output: true
 
 source: /
+profile: true
