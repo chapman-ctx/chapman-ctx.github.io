@@ -3,3 +3,5 @@ include: [README.md, .htaccess, _config.yaml]
 collections:
   files:
     output: true
+
+source: /
