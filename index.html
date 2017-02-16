@@ -1,5 +1,12 @@
+---
+---
 <html>
 <body>
 <h1>Hello World</h1>
+<ul>
+  {% for file in site.files %}
+  <li> {{ file }} </li>
+  {% endfor %}
+</ul>
 </body>
 </html>
