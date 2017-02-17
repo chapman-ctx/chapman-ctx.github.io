@@ -25,4 +25,5 @@ collections:
     output: true
     permalink: /mod/:path/
 
-incremental: true
+include:
+  - mod/1
