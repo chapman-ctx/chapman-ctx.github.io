@@ -20,4 +20,9 @@ collections:
     output: true
     permalink: /files/:path/
 
+collections:
+  mod:
+    output: true
+    permalink: /mod/:path/
+
 incremental: true
